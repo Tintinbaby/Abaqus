@@ -1,0 +1,1 @@
+本工作主要参考[PYABAQUS documentation](https://abqpy.readthedocs.io/projects/pyabaqus/en/latest/index.html)
